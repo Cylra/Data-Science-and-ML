@@ -17,6 +17,8 @@
  plt.scatter的微小改版，给函数传参稍有变化，需要修改planar_utils.py文件和作业中相关函数进行修改，并要重启内核，重新导包，否则修改不生效
 - L1W4 (2020.04.02)  
  作业2中，imread、imresize已弃用
+ - L2W1 (2020.04.03)  
+ 作业1、2中，plt.scatter的微小改版
 
 
 ### 参考资料:  
@@ -25,8 +27,10 @@
       备注：理论作业部分答案貌似有误，还是需要参考[黄博士][2]的答案
    - [编程作业题目][2] ipython notebook空白作业来自于[黄博士][2]
    - [编程作业答案][3]
+   - [吴恩达Deeplearning第二课代码bug修正大全][4]
 
 
 [1]: https://www.kesci.com/home/project/5e20243e2823a10036b542da/code
 [2]: https://github.com/fengdu78/deeplearning_ai_books
 [3]: https://www.kesci.com/home/project/5de4787aca27f8002c4c3661
+[4]: https://blog.csdn.net/skylark0924/article/details/80322165
