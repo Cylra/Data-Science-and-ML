@@ -12,7 +12,7 @@
 
 编程作业使用Python3完成，但原始作业中部分调用函数已失效，导致运行时报错，需要修改，在我提交的作业本中已进行了修改并顺利运行，下面仅对错误之处进行记录，具体解决办法进入相应的ipynb文件查询:
 - L1W2 (2020.03.31)  
-作业2中，由于scipy库版本的更新，作业中使用的imread、imresize已弃用
+作业2中，由于scipy库版本的更新，作业中使用的[imread][5]、[imresize][6]已弃用]
 - L1W3 (2020.04.02)  
  plt.scatter的微小改版，给函数传参稍有变化，需要修改planar_utils.py文件和作业中相关函数进行修改，并要重启内核，重新导包，否则修改不生效
 - L1W4 (2020.04.02)  
@@ -21,6 +21,8 @@
  作业1、2中，plt.scatter的微小改版
   - L2W2 (2020.04.04)  
  作业中，plt.scatter的微小改版，4 - Adam处第一次出现的公式参数有误，s_corrected的计算应除以${1 - (\beta_2)^t}$
+  - L2W3 (2020.04.05)  
+ 作业中，scipy库的更新
 
 
 ### 参考资料:  
@@ -36,3 +38,5 @@
 [2]: https://github.com/fengdu78/deeplearning_ai_books
 [3]: https://www.kesci.com/home/project/5de4787aca27f8002c4c3661
 [4]: https://blog.csdn.net/skylark0924/article/details/80322165
+[5]: https://blog.csdn.net/WUDIxi/article/details/100059943
+[6]: https://blog.csdn.net/WUDIxi/article/details/100060055
