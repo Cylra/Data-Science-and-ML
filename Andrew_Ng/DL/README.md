@@ -27,6 +27,8 @@
  作业2中，scipy库的更新；作业1中，进行Pooling backward时，对[参考答案][11]中对dA的索引存疑，题目中由于给定stride=1，所以vert_start==h、horiz_start==w(但以后使用框架了，无需自己计算BP，估计也不会再回头研究这个，仅记录一下)
   - L4W2 (2020.04.09)  
  作业1、2中，调用keras的plot_model会因为[没有安装GraphViz][7]而报错；作业2(Residual Networks)中，[ResNet50.h5下载地址][8]，大小为270MB；scipy库的更新，修改了[imread][5]的调用；测试图片时，不论用什么手势，[预测出来的数字都是0][9]的问题
+   - L4W3 (2020.04.10)  
+ 作业中，修改了[imread][5]的调用
 
 ### 参考资料:  
 
