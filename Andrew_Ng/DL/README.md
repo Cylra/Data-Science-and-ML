@@ -22,10 +22,11 @@
   - L2W2 (2020.04.04)  
  作业中，plt.scatter的微小改版，4 - Adam处第一次出现的公式参数有误，s_corrected的计算应除以${1 - (\beta_2)^t}$
   - L2W3 (2020.04.05)  
- 作业中，scipy库的更新
+ 作业中，scipy库的更新；作业中[TensorFlow版本的问题][10]
    - L4W1 (2020.04.08)  
- 作业2中，scipy库的更新
-
+ 作业2中，scipy库的更新；作业1中，进行Pooling backward时，对[参考答案][11]中对dA的索引存疑，题目中由于给定stride=1，所以vert_start==h、horiz_start==w(但以后使用框架了，无需自己计算BP，估计也不会再回头研究这个，仅记录一下)
+  - L4W2 (2020.04.09)  
+ 作业1、2中，调用keras的plot_model会因为[没有安装GraphViz][7]而报错；作业2(Residual Networks)中，[ResNet50.h5下载地址][8]，大小为270MB；scipy库的更新，修改了[imread][5]的调用；测试图片时，不论用什么手势，[预测出来的数字都是0][9]的问题
 
 ### 参考资料:  
 
@@ -42,3 +43,8 @@
 [4]: https://blog.csdn.net/skylark0924/article/details/80322165
 [5]: https://blog.csdn.net/WUDIxi/article/details/100059943
 [6]: https://blog.csdn.net/WUDIxi/article/details/100060055
+[7]: https://blog.csdn.net/sinat_40282753/article/details/85046871
+[8]: https://blog.csdn.net/hongbin_xu/article/details/78766642
+[9]: https://blog.csdn.net/Authur520/article/details/88708994
+[10]: https://blog.csdn.net/weixin_45033674/article/details/103562690
+[11]: https://www.kesci.com/home/project/5de0d28eca27f8002c4b2020
