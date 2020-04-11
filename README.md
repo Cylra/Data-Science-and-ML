@@ -14,5 +14,8 @@ https://pan.baidu.com/s/1_uwteXL6Ym37rh82FuKPog
 - Andrew_Ng/DL/L4/week1/
 - Andrew_Ng/DL/L4/week2/KerasTutorial/  
   Andrew_Ng/DL/L4/week2/ResNets/
-- Andrew_Ng/DL/L4/week3/Car detection for Autonomous Driving/images/
+- Andrew_Ng/DL/L4/week3/Car detection for Autonomous Driving/images/  
    Andrew_Ng/DL/L4/week3/Car detection for Autonomous Driving/model_data/
+- Andrew_Ng/DL/L4/week4/Face Recognition/datasets/
+  Andrew_Ng/DL/L4/week4/Face Recognition/weights/
+  Andrew_Ng/DL/L4/week4/Neural Style Transfer/pretrained-model/

@@ -29,6 +29,8 @@
  作业1、2中，调用keras的plot_model会因为[没有安装GraphViz][7]而报错；作业2(Residual Networks)中，[ResNet50.h5下载地址][8]，大小为270MB；scipy库的更新，修改了[imread][5]的调用；测试图片时，不论用什么手势，[预测出来的数字都是0][9]的问题
    - L4W3 (2020.04.10)  
  作业中，修改了[imread][5]的调用
+    - L4W4 (2020.04.11)  
+ 作业1(Face Recognition)中，修改了[旧版本np.nan出错][12]问题；求Triplet Loss时，计算L2范数求和，应该要添加axis=-1；作业2(Neural Style Transfer)中，修改了[imread][5]的调用；修改了nst_utils.py中的[imsave][13]调用；计算Style cost时，我使用np.square求平方，导致训练model时cost变成了负数(已修改，记录一下)
 
 ### 参考资料:  
 
@@ -50,3 +52,5 @@
 [9]: https://blog.csdn.net/Authur520/article/details/88708994
 [10]: https://blog.csdn.net/weixin_45033674/article/details/103562690
 [11]: https://www.kesci.com/home/project/5de0d28eca27f8002c4b2020
+[12]: https://blog.csdn.net/qq_42735433/article/details/104847651
+[13]: https://stackoverflow.com/questions/19991665/my-scipy-misc-module-appears-to-be-missing-imsave
