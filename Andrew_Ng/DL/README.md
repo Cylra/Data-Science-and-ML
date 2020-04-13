@@ -31,6 +31,8 @@
  作业中，修改了[imread][5]的调用
     - L4W4 (2020.04.11)  
  作业1(Face Recognition)中，修改了[旧版本np.nan出错][12]问题；求Triplet Loss时，计算L2范数求和，应该要添加axis=-1；作业2(Neural Style Transfer)中，修改了[imread][5]的调用；修改了nst_utils.py中的[imsave][13]调用；计算Style cost时，我使用np.square求平方，导致训练model时cost变成了负数(已修改，记录一下)
+- L5W1 (2020.04.12)  
+ 作业1(Building+a+Recurrent+Neural+Network+-+Step+by+Step)中，未完成RNN BP的求导代码编写
 
 ### 参考资料:  
 
