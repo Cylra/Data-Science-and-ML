@@ -33,6 +33,9 @@
  作业1(Face Recognition)中，修改了[旧版本np.nan出错][12]问题；求Triplet Loss时，计算L2范数求和，应该要添加axis=-1；作业2(Neural Style Transfer)中，修改了[imread][5]的调用；修改了nst_utils.py中的[imsave][13]调用；计算Style cost时，我使用np.square求平方，导致训练model时cost变成了负数(已修改，记录一下)
 - L5W1 (2020.04.12)  
  作业1(Building+a+Recurrent+Neural+Network+-+Step+by+Step)中，未完成RNN BP的求导代码编写
+ - L5W2 (2020.04.13)  
+   作业1(Word Vector Representation)中，导入词嵌入矩阵时[报错][14]；对照答案，3.2处公式少了2个，且列出的公式有错误
+
 
 ### 参考资料:  
 
@@ -56,3 +59,4 @@
 [11]: https://www.kesci.com/home/project/5de0d28eca27f8002c4b2020
 [12]: https://blog.csdn.net/qq_42735433/article/details/104847651
 [13]: https://stackoverflow.com/questions/19991665/my-scipy-misc-module-appears-to-be-missing-imsave
+[14]: https://blog.csdn.net/wwangfabei1989/article/details/80401272

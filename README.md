@@ -20,3 +20,5 @@ https://pan.baidu.com/s/1_uwteXL6Ym37rh82FuKPog
   Andrew_Ng/DL/L4/week4/Face Recognition/weights/
   Andrew_Ng/DL/L4/week4/Neural Style Transfer/pretrained-model/
 - Andrew_Ng/DL/L5/week1/Jazz improvisation with LSTM/data/
+- Andrew_Ng/DL/L5/week2/Word Vector Representation/data/  
+   Andrew_Ng/DL/L5/week2/Emojify/data/
