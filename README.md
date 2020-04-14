@@ -22,3 +22,8 @@ https://pan.baidu.com/s/1_uwteXL6Ym37rh82FuKPog
 - Andrew_Ng/DL/L5/week1/Jazz improvisation with LSTM/data/
 - Andrew_Ng/DL/L5/week2/Word Vector Representation/data/  
    Andrew_Ng/DL/L5/week2/Emojify/data/
+- Andrew_Ng/DL/L5/week3/Trigger word detection/XY_train/
+  Andrew_Ng/DL/L5/week3/Trigger word detection/XY_dev/
+  Andrew_Ng/DL/L5/week3/Trigger word detection/audio_examples/
+  Andrew_Ng/DL/L5/week3/Trigger word detection/models/
+  Andrew_Ng/DL/L5/week3/Trigger word detection/raw_data/

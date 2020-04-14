@@ -35,6 +35,9 @@
  作业1(Building+a+Recurrent+Neural+Network+-+Step+by+Step)中，未完成RNN BP的求导代码编写
  - L5W2 (2020.04.13)  
    作业1(Word Vector Representation)中，导入词嵌入矩阵时[报错][14]；对照答案，3.2处公式少了2个，且列出的公式有错误
+- L5W3 (2020.04.14)  
+ 作业1(Machine Translation)中，nmt_utils.py调用实例的`fake.seed()`已弃用，改为使用类方法`Faker.seed()`；这2个作业照着注释中的提示做完了，但确实真没弄懂(视频课上的**注意力模型**本身就没听懂呵呵呵=.=)，Whatever，吴老师的DL暂时告一段落啦~
+
 
 
 ### 参考资料:  
