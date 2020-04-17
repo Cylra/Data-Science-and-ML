@@ -28,3 +28,7 @@ https://pan.baidu.com/s/1_uwteXL6Ym37rh82FuKPog
   Andrew_Ng/DL/L5/week3/Trigger word detection/models/  
   Andrew_Ng/DL/L5/week3/Trigger word detection/raw_data/
 - Andrew_Ng/TF_in_Practice/L1/week4/tmp/
+- Andrew_Ng/TF_in_Practice/L2/week4/中[验证数据集下载地址][1]
+
+
+[1]: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
