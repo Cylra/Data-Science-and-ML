@@ -29,6 +29,7 @@ https://pan.baidu.com/s/1_uwteXL6Ym37rh82FuKPog
   Andrew_Ng/DL/L5/week3/Trigger word detection/raw_data/
 - Andrew_Ng/TF_in_Practice/L1/week4/tmp/
 - Andrew_Ng/TF_in_Practice/L2/week4/中[验证数据集下载地址][1]
+- Andrew_Ng/TF_in_Practice/L3/week3/中使用了tensorflow_datasets，下载后放置在`C:\Users\用户名\tensorflow_datasets\`文件夹下，由于训练模型时LSTM贼耗时，最好上Colab跑程序
 
 
 [1]: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
